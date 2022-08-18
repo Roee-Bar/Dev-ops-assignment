@@ -4,4 +4,4 @@ I was required to choose and answer 1 of the assignment and send an answer withi
 Because I was very familiar with the tools to complete the assignment I googled a lot.<br />
 2 hours before the deadline I submitted my answers to both assignments.<br />
 Used Languages: **Phyton**<br />
-Used Libraries: **BeautifulSoup, requests**
+Used Libraries: **BeautifulSoup, Requests**
