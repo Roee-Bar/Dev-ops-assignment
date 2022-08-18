@@ -1,5 +1,5 @@
 # DevOps 1st interview HW
-This repository includes the 2 assignments I got after my first interview at for a python DevOps position.
+This repository includes the 2 assignments I got after my first interview at for a python DevOps position.<br />
 I was required to choose and answer 1 of the assignment and send an answer within 72 hours
 
 Because I was very familiar with the tools to complete the assignment I googled a lot.
